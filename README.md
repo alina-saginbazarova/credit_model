@@ -1,6 +1,6 @@
 # Loan Default Prediction Based on the German Credit Data
 
-This repository contains an analysis and implementation of a Loan Default Prediction model using the German Credit Data. The primary objective of this project is to predict whether a loan applicant is likely to default on their loan. The model was built using logistic regression with L1 regularization (Lasso) to enhance interpretability and handle feature selection.
+This repository contains an analysis and implementation of a Loan Default Prediction model using the German Credit Data. The primary objective of this project is to predict whether a loan applicant is likely to default on his/her loan. The model was built using logistic regression with L1 regularization (Lasso) to enhance interpretability and handle feature selection.
 
 ## Table of Contents
 
